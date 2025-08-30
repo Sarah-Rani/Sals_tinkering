@@ -1,2 +1,2 @@
-# My_personal_repo
+# Welcome!
  Intended for passion projects and learning new coding things
